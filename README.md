@@ -1,128 +1,137 @@
-<!-- Banner Image -->
-
-<p align="center">
-  <a href="https://expo.dev/">
-    <img alt="expo sdk" height="128" src="./.github/resources/banner.png">
-    <h1 align="center">Expo</h1>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text">
+<p align="center" dir="auto">
+  <a href="https://expo.dev/" rel="nofollow">
+    <img alt="世博会SDK" height="128" src="/expo/expo/raw/main/.github/resources/banner.png" style="max-width: 100%;">
+    </a></p><h1 align="center" tabindex="-1" dir="auto"><a id="user-content-expo" class="anchor" aria-hidden="true" tabindex="-1" href="#expo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">世博会</font></font></h1>
+  
+<p dir="auto"></p>
+<p align="center" dir="auto">
+   <a aria-label="SDK版本" href="https://www.npmjs.com/package/expo" rel="nofollow">
+    <img alt="世博SDK版本" src="https://camo.githubusercontent.com/5221b39b7eb706ed6ec7f24bd9cfaa381df309bd410fe39d67a2ea2d1f03a02d/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6578706f2e7376673f7374796c653d666c61742d737175617265266c6162656c3d53444b266c6162656c436f6c6f723d30303030303026636f6c6f723d343633304542" data-canonical-src="https://img.shields.io/npm/v/expo.svg?style=flat-square&amp;label=SDK&amp;labelColor=000000&amp;color=4630EB" style="max-width: 100%;">
+  </a>
+  <a aria-label="聊天或提问" href="https://chat.expo.dev" rel="nofollow">
+    <img alt="聊天或提问" src="https://camo.githubusercontent.com/983998f29a0f2d7f285bd248fbb248357cb64ec6e65ad00594eb504af0a2a32a/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3639353431313233323835363939373936382e7376673f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d30303030303026636f6c6f723d343633304542266c6f676f3d646973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d43686174253230776974682532307573" data-canonical-src="https://img.shields.io/discord/695411232856997968.svg?style=flat-square&amp;labelColor=000000&amp;color=4630EB&amp;logo=discord&amp;logoColor=FFFFFF&amp;label=Chat%20with%20us" style="max-width: 100%;">
+  </a>
+  <a aria-label="世博会免费使用" href="https://github.com/expo/expo/blob/main/LICENSE">
+    <img alt="许可证：麻省理工学院" src="https://camo.githubusercontent.com/a563476c69bcdfcc04a38170be80df76bad25156a1e417c3e15ee091e4802c12/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d737563636573732e7376673f7374796c653d666c61742d73717561726526636f6c6f723d333343433132" data-canonical-src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&amp;color=33CC12" style="max-width: 100%;">
+  </a>
+  <a aria-label="展会下载" href="http://www.npmtrends.com/expo" rel="nofollow">
+    <img alt="下载" src="https://camo.githubusercontent.com/ebfd305a1c9e216d33568ee1ee201f8d3fbdf6053805e004f0ad0b52fc5fce10/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f646d2f6578706f2e7376673f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d6772617926636f6c6f723d333343433132266c6162656c3d446f776e6c6f616473" data-canonical-src="https://img.shields.io/npm/dm/expo.svg?style=flat-square&amp;labelColor=gray&amp;color=33CC12&amp;label=Downloads" style="max-width: 100%;">
   </a>
 </p>
-
-<p align="center">
-   <a aria-label="SDK version" href="https://www.npmjs.com/package/expo" target="_blank">
-    <img alt="Expo SDK version" src="https://img.shields.io/npm/v/expo.svg?style=flat-square&label=SDK&labelColor=000000&color=4630EB" />
-  </a>
-  <a aria-label="Chat or ask a question" href="https://chat.expo.dev" target="_blank">
-    <img alt="Chat or ask a question" src="https://img.shields.io/discord/695411232856997968.svg?style=flat-square&labelColor=000000&color=4630EB&logo=discord&logoColor=FFFFFF&label=Chat%20with%20us" />
-  </a>
-  <a aria-label="Expo is free to use" href="https://github.com/expo/expo/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" />
-  </a>
-  <a aria-label="expo downloads" href="http://www.npmtrends.com/expo" target="_blank">
-    <img alt="Downloads" src="https://img.shields.io/npm/dm/expo.svg?style=flat-square&labelColor=gray&color=33CC12&label=Downloads" />
-  </a>
-</p>
-
-<p align="center">
-  <a aria-label="try expo with snack" href="https://snack.expo.dev"><b>Try Expo in the Browser</b></a>
+<p align="center" dir="auto">
+  <a aria-label="尝试世博会和零食" href="https://snack.expo.dev" rel="nofollow"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在浏览器中尝试 Expo</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
 &ensp;•&ensp;
-  <a aria-label="expo documentation" href="https://docs.expo.dev">Read the Documentation</a>
+  </font></font><a aria-label="世博会文件" href="https://docs.expo.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 &ensp;•&ensp;
-  <a aria-label="expo documentation" href="https://blog.expo.dev">Learn more on our blog</a>
+  </font></font><a aria-label="世博会文件" href="https://blog.expo.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在我们的博客上了解更多信息</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 &ensp;•&ensp;
-  <a aria-label="expo documentation" href="https://expo.canny.io/feature-requests">Request a feature</a>
+  </font></font><a aria-label="世博会文件" href="https://expo.canny.io/feature-requests" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请求功能</font></font></a>
 </p>
-
-<h6 align="center">Follow us on</h6>
-<p align="center">
-  <a aria-label="Follow @expo on X" href="https://twitter.com/intent/follow?screen_name=expo" target="_blank">
-    <img alt="Expo on X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
+<h6 align="center" tabindex="-1" dir="auto"><a id="user-content-follow-us-on" class="anchor" aria-hidden="true" tabindex="-1" href="#follow-us-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跟着我们</font></font></h6>
+<p align="center" dir="auto">
+  <a aria-label="在 X 上关注 @expo" href="https://twitter.com/intent/follow?screen_name=expo" rel="nofollow">
+    <img alt="X世博会" src="https://camo.githubusercontent.com/90d600582ead821d931b3bb7b7d52c9ff985021b4a8cd6287d3ed94b12ce15f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" style="max-width: 100%;">
   </a>&nbsp;
-  <a aria-label="Follow @expo on GitHub" href="https://github.com/expo" target="_blank">
-    <img alt="Expo on GitHub" src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a aria-label="在 GitHub 上关注 @expo" href="https://github.com/expo">
+    <img alt="GitHub 上的博览会" src="https://camo.githubusercontent.com/ebeada5e03d78ea21e211cd210f33bd5e9e13afdf3be9655dcfc7ad42462c259/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3232323232323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
   </a>&nbsp;
-  <a aria-label="Follow @expo on Reddit" href="https://www.reddit.com/r/expo/" target="_blank">
-    <img alt="Expo on Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank" />
+  <a aria-label="在 Reddit 上关注@expo" href="https://www.reddit.com/r/expo/" rel="nofollow">
+    <img alt="Reddit 上的世博会" src="https://camo.githubusercontent.com/b85dfe5395698cf1f277d69c420bcd3d5a1e2f0105e46dc77601b109614b1974/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265646469742d4646343530303f7374796c653d666f722d7468652d6261646765266c6f676f3d726564646974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" style="max-width: 100%;">
   </a>&nbsp;
-  <a aria-label="Follow @expo on Bluesky" href="https://bsky.app/profile/expo.dev" target="_blank">
-    <img alt="Expo on LinkedIn" src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank" />
+  <a aria-label="在 Bluesky 上关注 @expo" href="https://bsky.app/profile/expo.dev" rel="nofollow">
+    <img alt="LinkedIn 上的世博会" src="https://camo.githubusercontent.com/6db93f8a45ac196b4991b2ec675240bc506f5869d6ba5b6011a6d2406b2cc417/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426c7565736b792d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d626c7565736b79266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&amp;logo=bluesky&amp;logoColor=white" style="max-width: 100%;">
   </a>&nbsp;
-  <a aria-label="Follow @expo on LinkedIn" href="https://www.linkedin.com/company/expo-dev" target="_blank">
-    <img alt="Expo on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a aria-label="在 LinkedIn 上关注@expo" href="https://www.linkedin.com/company/expo-dev" rel="nofollow">
+    <img alt="LinkedIn 上的世博会" src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Expo 是一个开源平台，用于制作在 Android、iOS 和 Web 上运行的通用本机应用程序。它包括通用运行时和库，可让您通过编写 React 和 JavaScript 来构建本机应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该存储库包括 Expo SDK、模块 API、Go 应用程序、CLI、路由器、文档和各种其他支持工具。</font></font><a href="https://expo.dev/eas" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Expo 应用服务 (EAS)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个与 Expo 开源工具深度集成的托管服务平台。 EAS 可帮助您作为个人或团队构建、发布和迭代您的应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在存储库中进行交互之前，</font><font style="vertical-align: inherit;">请阅读</font></font><a href="https://expo.dev/guidelines" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Expo 社区指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。感谢您帮助保持世博会社区的开放和热情！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-table-of-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h2>
+<ul dir="auto">
+<li><a href="#-documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚 文档</font></font></a></li>
+<li><a href="#-project-layout"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗺 项目布局</font></font></a></li>
+<li><a href="#-badges"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏅 徽章</font></font></a></li>
+<li><a href="#-contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👏 贡献</font></font></a></li>
+<li><a href="#-faq"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ 常见问题解答</font></font></a></li>
+<li><a href="#-the-team"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💙团队</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚 文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><a aria-label="世博会文件" href="https://docs.expo.dev" rel="nofollow"><font style="vertical-align: inherit;">在我们的官方文档中</font></a><font style="vertical-align: inherit;">了解如何构建和部署通用应用程序！</font></font><a aria-label="世博会文件" href="https://docs.expo.dev" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+<ul dir="auto">
+<li><a href="https://docs.expo.dev/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a></li>
+<li><a href="https://docs.expo.dev/versions/latest/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API参考</font></font></a></li>
+<li><a href="https://docs.expo.dev/workflow/customizing/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用自定义本机模块</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--project-layout" class="anchor" aria-hidden="true" tabindex="-1" href="#-project-layout"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗺 项目布局</font></font></h2>
+<ul dir="auto">
+<li><a href="/expo/expo/blob/main/packages"><code>packages</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Expo 模块的所有源代码，如果您想编辑库或只是了解其工作原理，您可以在此处找到它。</font></font></li>
+<li><a href="/expo/expo/blob/main/apps"><code>apps</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在这里找到与开发模块链接的世博项目。您将在这里完成大部分测试。</font></font></li>
+<li><a href="/expo/expo/blob/main/apps/expo-go"><code>apps/expo-go</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在这里找到 Expo Go 的源代码。</font></font></li>
+<li><a href="/expo/expo/blob/main/ios"><code>apps/expo-go/ios/Exponent.xcworkspace</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是 Xcode 工作区。开发 iOS 时，请始终打开此选项，</font></font><code>Exponent.xcodeproj</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因为工作区还会加载 CocoaPods 依赖项。</font></font></li>
+<li><a href="/expo/expo/blob/main/docs"><code>docs</code></a><font style="vertical-align: inherit;"><strong><a href="https://docs.expo.dev" rel="nofollow"><font style="vertical-align: inherit;">https://docs.expo.dev</font></a></strong><font style="vertical-align: inherit;">的源代码</font></font><strong><a href="https://docs.expo.dev" rel="nofollow"><font style="vertical-align: inherit;"></font></a></strong></li>
+<li><a href="/expo/expo/blob/main/templates"><code>templates</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行时得到的模板项目</font></font><code>npx create-expo-app</code></li>
+<li><a href="/expo/expo/blob/main/react-native-lab"><code>react-native-lab</code></a><font style="vertical-align: inherit;"></font><code>react-native</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是我们用来构建 Expo Go</font><font style="vertical-align: inherit;">的 fork 。</font></font></li>
+<li><a href="/expo/expo/blob/main/guides"><code>guides</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">针对高级主题（例如为客户做出贡献）的深入教程。</font></font></li>
+<li><a href="/expo/expo/blob/main/tools"><code>tools</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含构建和配置工具。</font></font></li>
+<li><a href="/expo/expo/blob/main/template-files"><code>template-files</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含需要私钥的文件的模板。它们是使用 中的键填充的</font></font><code>template-files/keys.json</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="/expo/expo/blob/main/template-files/ios/dependencies.json"><code>template-files/ios/dependencies.json</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指定应用程序的 CocoaPods 依赖项。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--badges" class="anchor" aria-hidden="true" tabindex="-1" href="#-badges"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏅 徽章</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让每个人都知道您的应用程序可以在Expo Go</font></font></em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序中立即运行</font><font style="vertical-align: inherit;">！
+</font></font><br></p>
+<p dir="auto"><a href="https://expo.dev/client" rel="nofollow"><img src="https://camo.githubusercontent.com/326836eebe2883685b62ddf5bdbb16459caa9f56339c909718d19bdebbcc035e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52756e73253230776974682532304578706f253230476f2d3030302e7376673f7374796c653d666c61742d737175617265266c6f676f3d4558504f266c6162656c436f6c6f723d663366336633266c6f676f436f6c6f723d303030" alt="与 Expo Go 一起运行" data-canonical-src="https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&amp;logo=EXPO&amp;labelColor=f3f3f3&amp;logoColor=000" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://expo.dev/client" rel="nofollow"><img src="https://camo.githubusercontent.com/ec014308cf636dc068ad1b02f638db37eaf8eca0e885a31942ae59ade0ef12b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52756e73253230776974682532304578706f253230476f2d3436333045422e7376673f7374796c653d666c61742d737175617265266c6f676f3d4558504f266c6162656c436f6c6f723d663366336633266c6f676f436f6c6f723d303030" alt="与 Expo Go 一起运行" data-canonical-src="https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&amp;logo=EXPO&amp;labelColor=f3f3f3&amp;logoColor=000" style="max-width: 100%;"></a></p>
+<div class="highlight highlight-text-md notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-s">[</span><span class="pl-s">![</span>runs with Expo Go<span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl">https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&amp;logo=EXPO&amp;labelColor=f3f3f3&amp;logoColor=000</span><span class="pl-s">)]</span><span class="pl-s">(</span><span class="pl-corl">https://expo.dev/client</span><span class="pl-s">)</span>
 
-## Introduction
+<span class="pl-s">[</span><span class="pl-s">![</span>runs with Expo Go<span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl">https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&amp;logo=EXPO&amp;labelColor=f3f3f3&amp;logoColor=000</span><span class="pl-s">)]</span><span class="pl-s">(</span><span class="pl-corl">https://expo.dev/client</span><span class="pl-s">)</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&amp;logo=EXPO&amp;labelColor=f3f3f3&amp;logoColor=000)](https://expo.dev/client)
 
-Expo is an open-source platform for making universal native apps that run on Android, iOS, and the web. It includes a universal runtime and libraries that let you build native apps by writing React and JavaScript.
-
-This repository includes the Expo SDK, Modules API, Go app, CLI, Router, documentation, and various other supporting tools. [Expo Application Services (EAS)](https://expo.dev/eas) is a platform of hosted services that are deeply integrated with Expo open source tools. EAS helps you build, ship, and iterate on your app as an individual or a team.
-
-Read the [Expo Community Guidelines](https://expo.dev/guidelines) before interacting in the repository. Thank you for helping keep the Expo community open and welcoming!
-
-## Table of contents
-
-- [📚 Documentation](#-documentation)
-- [🗺 Project Layout](#-project-layout)
-- [🏅 Badges](#-badges)
-- [👏 Contributing](#-contributing)
-- [❓ FAQ](#-faq)
-- [💙 The Team](#-the-team)
-- [License](#license)
-
-## 📚 Documentation
-
-<p>Learn about building and deploying universal apps <a aria-label="expo documentation" href="https://docs.expo.dev">in our official docs!</a></p>
-
-- [Getting Started](https://docs.expo.dev/)
-- [API Reference](https://docs.expo.dev/versions/latest/)
-- [Using Custom Native Modules](https://docs.expo.dev/workflow/customizing/)
-
-## 🗺 Project Layout
-
-- [`packages`](/packages) All the source code for Expo modules, if you want to edit a library or just see how it works this is where you'll find it.
-- [`apps`](/apps) This is where you can find Expo projects which are linked to the development modules. You'll do most of your testing in here.
-- [`apps/expo-go`](/apps/expo-go) This is where you can find the source code for Expo Go.
-- [`apps/expo-go/ios/Exponent.xcworkspace`](/ios) is the Xcode workspace. When developing iOS, always open this instead of `Exponent.xcodeproj` because the workspace also loads the CocoaPods dependencies.
-- [`docs`](/docs) The source code for **https://docs.expo.dev**
-- [`templates`](/templates) The template projects you get when you run `npx create-expo-app`
-- [`react-native-lab`](/react-native-lab) This is our fork of `react-native` used to build Expo Go.
-- [`guides`](/guides) In-depth tutorials for advanced topics like contributing to the client.
-- [`tools`](/tools) contains build and configuration tools.
-- [`template-files`](/template-files) contains templates for files that require private keys. They are populated using the keys in `template-files/keys.json`.
-- [`template-files/ios/dependencies.json`](/template-files/ios/dependencies.json) specifies the CocoaPods dependencies of the app.
-
-## 🏅 Badges
-
-Let everyone know your app can be run instantly in the _Expo Go_ app!
-<br/>
-
-[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
-
-[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
-
-```md
-[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
-
-[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
-```
-
-## 👏 Contributing
-
-If you like Expo and want to help make it better then check out our [contributing guide](/CONTRIBUTING.md)! Check out the [CLI package](https://github.com/expo/expo/tree/main/packages/%40expo/cli) to work on the Expo CLI.
-
-## ❓ FAQ
-
-If you have questions about Expo and want answers, then check out our [Frequently Asked Questions](https://docs.expo.dev/versions/latest/introduction/faq/)!
-
-If you still have questions you can ask them on our [Discord and Forums](https://chat.expo.dev) or on Twitter [@Expo](https://twitter.com/expo).
-
-## 💙 The Team
-
-Curious about who makes Expo? Here are our [team members](https://expo.dev/about)!
-
-## License
-
-The Expo source code is made available under the [MIT license](LICENSE). Some of the dependencies are licensed differently, with the BSD license, for example.
-
-
-<img alt="Star the Expo repo on GitHub to support the project" src="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" width="50%">
+[![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&amp;logo=EXPO&amp;labelColor=f3f3f3&amp;logoColor=000)](https://expo.dev/client)" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h2 tabindex="-1" dir="auto"><a id="user-content--contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👏 贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您喜欢世博会并希望帮助使其变得更好，请查看我们的</font></font><a href="/expo/expo/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！查看</font></font><a href="https://github.com/expo/expo/tree/main/packages/%40expo/cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CLI 包</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以在 Expo CLI 上运行。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--faq" class="anchor" aria-hidden="true" tabindex="-1" href="#-faq"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❓ 常见问题解答</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您对世博会有疑问并希望得到答案，请查看我们的</font></font><a href="https://docs.expo.dev/versions/latest/introduction/faq/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常见问题解答</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您仍有疑问，可以在我们的</font></font><a href="https://chat.expo.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 和论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或 Twitter </font></font><a href="https://twitter.com/expo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@Expo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上提问。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--the-team" class="anchor" aria-hidden="true" tabindex="-1" href="#-the-team"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💙团队</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">好奇谁制作了世博会？这是我们的</font></font><a href="https://expo.dev/about" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">团队成员</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/expo/expo/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Expo 源代码根据MIT 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供</font><font style="vertical-align: inherit;">。某些依赖项的许可方式不同，例如使用 BSD 许可证。</font></font></p>
+<p dir="auto"><animated-image data-catalyst="" style="width: 50%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" data-target="animated-image.originalLink"><img alt="在 GitHub 上为 Expo 存储库加注星标以支持该项目" src="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Star the Expo repo on GitHub to support the project" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="407" height="107"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Star the Expo repo on GitHub to support the project" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Star the Expo repo on GitHub to support the project">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Star the Expo repo on GitHub to support the project in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/9664363/185428788-d762fd5d-97b3-4f59-8db7-f72405be9677.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+</article></div>
